@@ -1,0 +1,13 @@
+type: edu
+files:
+  - name: src/Task.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.kt
+    visible: false
+    learner_created: false
+status: Failed
+feedback:
+  message: Compilation Failed
+  time: "Sun, 04 Oct 2026 09:32:27 UTC"
+record: -1
